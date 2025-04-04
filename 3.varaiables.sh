@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PERSON1=yeswanth
-PERSON2=server
+PERSON1=HARI
+PERSON2=SWAROOP
 
 
 echo "$PERSON1:Hello,one tea please"
