@@ -5,8 +5,8 @@ password=$2
 
 echo "username is $username"
 
-read username
+read -s username
 
 echo "password is $password"
 
-read paasword
+read -s paasword
