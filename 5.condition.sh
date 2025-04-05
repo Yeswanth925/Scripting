@@ -2,7 +2,7 @@
 
 name=$1
 
-if [ $name="yeswanth" ]
+if [ man="$name" ]
 then
    echo " It is my name "
 else
