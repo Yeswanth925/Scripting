@@ -1,7 +1,11 @@
 #!/bib/bash
 
 if(today=monday)
-{print "Go to temple"}
+{
+    print "Go to temple"
+    }
 else
-{print "seat in the home"}
+{
+    print "seat in the home"
+    }
 fi
