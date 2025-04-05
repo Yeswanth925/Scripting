@@ -1,9 +1,10 @@
 #!/bin/bash
 
-if(today != "sunday"){
-	print "goto school"
-}
-else{
-	print "Happy Holiday"
-}
+name=$1
+
+if [ $name="yeswanth" ]
+then
+   echo " It is my name "
+else
+   echo "wrong person"
 fi
