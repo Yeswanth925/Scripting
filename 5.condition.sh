@@ -1,4 +1,4 @@
-#!/bib/bash
+#!/bin/bash
 
 if(today != "sunday"){
 	print "goto school"
