@@ -6,4 +6,4 @@ if(today != "sunday"){
 else{
 	print "Happy Holiday"
 }
-
+fi
