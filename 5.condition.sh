@@ -1,12 +1,9 @@
 #!/bib/bash
 
-if(today=monday)
-{
-    print "Go to temple"
-    }
-then
-{
-    print "seat in the home"
-    }
-fi
+if(today != "sunday"){
+	print "goto school"
+}
+else{
+	print "Happy Holiday"
+}
 
