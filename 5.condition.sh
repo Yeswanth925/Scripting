@@ -4,8 +4,9 @@ if(today=monday)
 {
     print "Go to temple"
     }
-else
+then
 {
     print "seat in the home"
     }
 fi
+
